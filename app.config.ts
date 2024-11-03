@@ -59,9 +59,15 @@ export default defineAppConfig({
       icon: "tabler:star",
       labelForCard: "Featured ✨",
     },
-    tags: [{
-      name: "landing-page",
-    }],
+    tags: [
+      { name: "SAAS", color: "blue" },
+      { name: "dashboard", color: "green" },
+      { name: "landing-page" },
+      { name: "toolbox" },
+      { name: "agency" },
+      { name: "markdown-based" },
+      { name: "basics", color: "indigo" },
+    ],
     tagPages: {
       title: "Available {0} products:",
       description:
