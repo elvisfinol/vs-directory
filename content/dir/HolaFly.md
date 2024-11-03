@@ -1,9 +1,8 @@
 ---
-layout: default
+cover: /logo.png
+featured: true
 tags:
-  - landing-page
-card_image: hola-fly.png
-description: Hola Fly
+  - SAAS
 ---
 
 # Negocio 1

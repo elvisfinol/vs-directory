@@ -20,16 +20,16 @@ export default defineAppConfig({
   },
   directory: {
     search: {
-      placeholder: "Search among {0} tools",
+      placeholder: "Buscar {0} recomendaciones",
       icon: "tabler:bow",
-      tags: {
+      tags: { 
         // options: none,select,show-all,
         display: "select",
-        intersection: false,
+        intersection: true,
       },
     },
     grid: {
-      list: false,
+      list: true,
       emptyState: {
         text: "Seems that this entry is missing from the archives.",
         // options: button, simple, link
@@ -44,7 +44,7 @@ export default defineAppConfig({
       submit: {
         show: true,
         first: false,
-        title: "Submit a template",
+        title: "Publica con nosotros",
 
         description:
           "Submit a template to show off a good project to other people.",
@@ -77,9 +77,9 @@ export default defineAppConfig({
   header: {
     banner: {
       show: true,
-      text: "Create your own directory website in minutes.",
-      link: "https://minteddirectory.com",
-      brandText: "MintedDirectory",
+      text: "Visita nuestra página oficial",
+      link: "https://vivesimple.me",
+      brandText: "",
     },
     navbar: {
       colorModeSelector: true,
@@ -87,15 +87,15 @@ export default defineAppConfig({
         { name: "Mi Directorio", to: "/" },
         // { name: "Blog", to: "/blog" },
         { name: "¿Cómo Funciona?", to: "/advertise" },
-        {
-          name: "Vive Simple Web",
-          to: "https://vivesimple.me/",
-          target: "_blank",
-        },
+        // {
+        //   name: "Vive Simple Web",
+        //   to: "https://vivesimple.me/",
+        //   target: "_blank",
+        // },
       ],
     },
     actionButton: {
-      text: "Submit a starter",
+      text: "Publica con nosotros",
       href: "/submit",
     },
   },
