@@ -9,17 +9,18 @@ ogImage:
 ---
 icon: tabler:ad-2
 ---
-# Advertise your new app!
+# ¡Anuncia tu nueva aplicación!
 
 #description
-Reach out to thousands of boilerplate fans, indiehackers, developers, and creators who visit and explore MintedDirectory every month. By advertising your service or product here, you’ll be able to connect directly with this engaged audience. 🚀
+Llega a miles de fanáticos de plantillas, indiehackers, desarrolladores y creadores que visitan y exploran MintedDirectory cada mes. Al anunciar tu servicio o producto aquí, podrás conectar directamente con esta audiencia comprometida. 🚀
 ::
 
 ---
 
 ## Paid Listings
 
-Paid listings  to secure a spot in our directory by paying a fee. These listings gain more exposure than free listings, ensuring that businesses are prominently displayed to potential customers. By upgrading to a paid listing, you increase the chances of being noticed in a competitive space.
+Incluso en directorios gratuitos, ofrecemos listados destacados o impulsados. Las empresas pueden pagar por una posición premium en la parte superior del directorio, asegurando la máxima visibilidad. Los listados destacados están resaltados para destacarse, facilitando que los clientes potenciales encuentren y se relacionen con las empresas.
+
 
 ## Featured Listings
 
@@ -31,10 +32,13 @@ Here’s an example of how featured listings will look to Minted Directory visit
 
 ## Sponsoring
 
-Sponsors can place their brand on the homepage gaining exposure to our growing audience. This is an excellent option for businesses looking to build brand awareness and connect with our community.
+Los patrocinadores pueden colocar su marca en la página de inicio, ganando exposición ante nuestra creciente audiencia. Esta es una excelente opción para empresas que buscan construir reconocimiento de marca y conectar con nuestra comunidad.
 
 :sponsor-example{description="Get a free price estimation for your roof. 🏠" title="Mike's Roofing"}
 
 ## Contact
 
 If you are interested in advertising on :site-name contact us at <contact@minteddirectory.com>
+
+
+

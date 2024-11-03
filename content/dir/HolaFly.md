@@ -1,11 +1,12 @@
 ---
+layout: default
 tags:
   - landing-page
 card_image: hola-fly.png
 description: Hola Fly
 ---
 
-# HolaFly page
+# HolaFly
 
 ![hola-fly.png](/hola-fly.png)
 
